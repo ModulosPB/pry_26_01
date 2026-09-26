@@ -14,7 +14,7 @@ function htmlImportacion() {
       <form class="formulario formulario--linea" novalidate>
         <label class="campo">
           <span class="campo__etiqueta">Nombre del trabajo</span>
-          <input class="campo__control" name="nombre" placeholder="Dashboard Coca-Cola España" maxlength="255" required />
+          <input class="campo__control" name="nombre" placeholder="Nombre del trabajo" maxlength="255" required />
         </label>
         <label class="campo">
           <span class="campo__etiqueta">Fichero CSV</span>
