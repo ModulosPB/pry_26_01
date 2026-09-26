@@ -7,7 +7,7 @@ export function vistaLogin(contenedor) {
     <main class="acceso">
       <section class="acceso__panel">
         <h1 class="acceso__titulo">Procesamiento IA</h1>
-        <p class="acceso__texto">Envía lotes de preguntas a OpenAI respetando sus límites y revisa las respuestas.</p>
+        <p class="acceso__texto">Envía lotes de preguntas.</p>
         <form class="formulario" novalidate>
           <label class="campo">
             <span class="campo__etiqueta">Usuario</span>
